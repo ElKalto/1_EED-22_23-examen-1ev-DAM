@@ -1,0 +1,4 @@
+cascada
+cascada con feedback
+agiles
+iterativo
